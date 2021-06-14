@@ -1,0 +1,12 @@
+C:\Users\Egor\source\repos\Tlab2\bin\Debug\Tlab2.exe.config
+C:\Users\Egor\source\repos\Tlab2\bin\Debug\Tlab2.exe
+C:\Users\Egor\source\repos\Tlab2\bin\Debug\Tlab2.pdb
+C:\Users\Egor\source\repos\Tlab2\obj\Debug\Tlab2.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Tlab2\obj\Debug\Tlab2.Form1.resources
+C:\Users\Egor\source\repos\Tlab2\obj\Debug\Tlab2.Properties.Resources.resources
+C:\Users\Egor\source\repos\Tlab2\obj\Debug\Tlab2.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Tlab2\obj\Debug\Tlab2.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Tlab2\obj\Debug\Tlab2.exe
+C:\Users\Egor\source\repos\Tlab2\obj\Debug\Tlab2.pdb
+C:\Users\Egor\source\repos\Tlab2\obj\Debug\Tlab2.Form2.resources
+C:\Users\Egor\source\repos\Tlab2\bin\Debug\Resources\TextFile1.txt
